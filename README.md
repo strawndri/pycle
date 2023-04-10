@@ -5,7 +5,7 @@
 </p>
 
 ## Sobre o projeto 
-O Pycle, que vem da união de **Python** com **Cycle** será um sistema cujo usuário poderá criar flashcards para auxiliar nos seus estudos, independente do conteúdo ou área! Para armazenamento de informações, será utilizado o PostgreSQL, um sistema gerenciador de banco de dados.
+O Pycle, que vem da união de **Python** com **Cycle**, será um sistema cujo usuário poderá criar flashcards para auxiliar nos seus estudos, independente do conteúdo ou área! Para armazenamento de informações, será utilizado o PostgreSQL, um sistema gerenciador de banco de dados.
 
 ## Tecnologias
 - Ferramentas:
